@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Look me up on GitHub!](https://github.com/TechPowerAwaits)
+
+([I'm also available on LinkedIn.](https://linkedin.com/in/TechPowerAwaits))
