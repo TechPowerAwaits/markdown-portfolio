@@ -17,3 +17,7 @@ layout: default
 {% include 04-pref_skills_list.md %}
 
 <br>
+
+{% include 05-project_blog.md %}
+
+<br>
